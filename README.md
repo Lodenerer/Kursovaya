@@ -17,7 +17,7 @@
 ## Как запустить
 
 1. Клонируйте репозиторий:
-git clone https://github.com/Lodenerer/MO_project
+git clone https://github.com/Lodenerer/Kursovaya
 cd repo
 
 2. Установите зависимости:
